@@ -29,3 +29,7 @@ $\sigma_t$ es la desviación estandar del turbulente de velocidad.
 # Alcance ético
 
 El modelo tiene un impacto ético dependiendo del uso dado, por ejemplo, este modelo puede servir para predicción (con cierto grado de error) del movimiento de una nube de piroclastos de un volcán activo o emisiones polutantes derivadas de procesos manufactureros, luego con esta información se pueden tomar decisiones de prevención para la población afectada y el mismo medio ambiente.
+
+# Referencia 
+
+[1] Nurul Huda, M. (2016). Stochastic trajectory modelling of atmospheric dispersion. University College London.
